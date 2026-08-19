@@ -1,7 +1,7 @@
 🏆 MULTISPORTS — MARCADOR MULTIDEPORTIVO
 Solución móvil integral para el control en tiempo real de marcadores, generación automática de torneos y análisis estadístico deportivo mediante Inteligencia Artificial (Gemini AI).
 
-https://github.com/dereklp30/Multisports/blob/4fd9de926e83fca659d578eeb7f182ce6bc9b80a/Principal.jpeg
+![image alt](https://github.com/dereklp30/Multisports/blob/4fd9de926e83fca659d578eeb7f182ce6bc9b80a/Principal.jpeg)
 
 📌 DESCRIPCIÓN DEL PROYECTO
 ETITC Sports es una plataforma móvil diseñada para modernizar la gestión deportiva institucional en la Escuela Tecnológica Instituto Técnico Central (ETITC). Permite a jueces y organizadores llevar un registro preciso e instantáneo de partidos en Fútbol, Baloncesto y Ping-Pong, además de automatizar llaves de eliminación (brackets), exportar planillas oficiales en PDF e interpretar el rendimiento individual con IA.
@@ -16,7 +16,7 @@ Modo Penales Directos: Contador rápido de tandas de penales con cálculo autom�
 
 Sistema de Torneos: Generación automática de llaves de eliminación directa con guardado de progreso.
 
-https://github.com/dereklp30/Multisports/blob/4fd9de926e83fca659d578eeb7f182ce6bc9b80a/Futbolpartido.jpeg
+![image alt](https://github.com/dereklp30/Multisports/blob/4fd9de926e83fca659d578eeb7f182ce6bc9b80a/Futbolpartido.jpeg)
 
 🏀 Baloncesto
 Marcador Adaptable: Cronómetro para cuartos en formato FIBA (10 min), NBA (12 min) o tiempos extra.
@@ -29,7 +29,7 @@ Análisis Inteligente (Gemini AI): Evaluación avanzada del MVP mediante fórmul
 
 Exportación PDF: Generación e impresión instantánea de la planilla oficial del juego.
 
-https://github.com/dereklp30/Multisports/blob/4fd9de926e83fca659d578eeb7f182ce6bc9b80a/Basket.jpeg
+![image alt](https://github.com/dereklp30/Multisports/blob/4fd9de926e83fca659d578eeb7f182ce6bc9b80a/Basket.jpeg)
 
 🏓 Ping-Pong
 Reglamento Oficial: Sistema de puntuación a 11 con ventaja requerida de 2 puntos y conteo de sets.
