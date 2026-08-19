@@ -39,6 +39,7 @@ Formatos de Juego: Selección flexible de encuentros al mejor de 3 (Bo3) o 5 set
 Gestión de Torneos: Control de cuadro de eliminatorias con gestión de descansos (BYEs).
 
 📖 MANUAL DE USO PASO A PASO
+
 1️⃣ Autenticación e Inicio
 Inicia sesión de forma rápida utilizando tu cuenta institucional con Google Sign-In.
 
