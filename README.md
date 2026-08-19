@@ -38,6 +38,13 @@ Formatos de Juego: Selección flexible de encuentros al mejor de 3 (Bo3) o 5 set
 
 Gestión de Torneos: Control de cuadro de eliminatorias con gestión de descansos (BYEs).
 
+🏐 Volleyball
+Reglamento Oficial: Sistema de puntuación con ventaja de 2 puntos y conteo de sets
+
+Formatos de Juego: Selección de encuentros al mejor de 3 (Bo3) o 5 sets (Bo5) y personalización de puntos en cada set
+
+Gestión de Torneos: Control de cuadro de eliminatorias personalizado
+
 📖 MANUAL DE USO PASO A PASO
 
 1️⃣ Autenticación e Inicio
